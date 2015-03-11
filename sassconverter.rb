@@ -11,5 +11,4 @@ puts "Bravo, #{scss_file[0..-6]} was generated for you"
 end
 
 puts "\nThanks for using the script.\nCheck your scss folder for output and Hit enter to exit"
-
 gets
